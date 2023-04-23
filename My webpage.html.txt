@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>Emmanuel Shopping mall</title>
+</head>
+<body>
+<p>welcome to Emmanuel shopping Mall</p>
+<li>T-shirts</li>
+<li>Shorts</>
+<a href="mailto;helpdesk@emmanuellubaini.ac.mw">Email Help Desk</a>
+<img src="t shirt1.jpg">
+<img src="t shirt2.jpg">
+</body>
+</html>
+
+
+ 
